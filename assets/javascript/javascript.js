@@ -3,7 +3,7 @@ $(function(){
 	console.log("Page loaded")
 });
 
-var searchArray = ['Happy', 'Sad', 'Face-Off', 'Bees']
+var searchArray = ['Happy', 'Sad', 'Bees', 'Matchstick Men']
 
 function populateButtons(searchArray, classToAdd, areaToAddTo){
 	$(areaToAddTo).empty();
