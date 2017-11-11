@@ -1,0 +1,36 @@
+body{
+	background-image:url("assets/images/gal2.jpg");
+}
+#jumbotron {
+	margin:auto;
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
+
+#buttons {
+	border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 100px;
+    height: 20px;
+}
+#search-text{
+	color:white;
+}
+
+#buttonsArea{
+	margin:25px;
+	position:relative;
+	text-align: center;	
+}
+#search-form{
+	position:relative;
+	text-align: right;
+}
+
+#searches{
+	display:inline-block;
+}
